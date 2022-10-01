@@ -4,6 +4,15 @@
     text-align: left;
     color: black;
   }
+  p{
+    text-align: center;
+  }
+  h1{
+    text-align: center;
+  }
+  h2{
+    text-align: center;
+  }
   .bottom-left {
     position: absolute;
     bottom: 8px;
