@@ -1,11 +1,14 @@
   p{
-    text-align: center;
+    text-align: justify;
   }
   h1{
     text-align: center;
   }
   h2{
     text-align: center;
+  }
+  *{
+    box-sizing: border-box;
   }
   .image{
     width: 180px;
@@ -30,5 +33,26 @@
   width: 200px;
   height: 160px;
  }
-
- 
+.titlecats{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.catpaw{
+  float: left;
+  border: solid 2px;
+  width: 200px;
+  height: 160px;
+  margin-right: 5px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.catteeth{
+  float: right;
+  width: 200px;
+  height: 200px;
+  margin-left: 5px;
+  margin-top: 5px;
+  margin-bottom: 40px;
+}
+#catpaw:hover{
+opacity: 0.7;
+}
