@@ -23,7 +23,11 @@
   display: table;
  }
  .image2{
-  width: 180px;
+  width: 200px;
+  height: 160px;
+ }
+ .image3{
+  width: 200px;
   height: 160px;
  }
 
