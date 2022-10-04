@@ -47,6 +47,7 @@
 }
 .catteeth{
   float: right;
+  border: solid 2px;
   width: 200px;
   height: 200px;
   margin-left: 5px;
